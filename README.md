@@ -9,17 +9,16 @@ Eu sou o Pedro Faria, sou um Programador Front End, finalizei meus aprendizados 
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo" />
  - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" />
  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
+ - <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular-logo" />
   
   <br>
   
   ### Connect with me:
   
-  <p>
-  <a href="https://www.instagram.com/peedrofariaa/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram-logo" />
-  </a>
+
   <a href="https://www.linkedin.com/in/peedrofariaa/">
   <img  align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin-logo" />
+  <a/>
   
   <br>
   
