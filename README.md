@@ -22,6 +22,4 @@ Eu sou o Pedro Faria, sou um Programador Front End, finalizei meus aprendizados 
   
   <br>
   
-  [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=peedrofariaa)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peedrofariaa)](https://github.com/anuraghazra/github-readme-stats)
