@@ -3,6 +3,8 @@
 Front-End Developer com experiência em startups, especializado em React, 
 Next.js e TypeScript. Construo interfaces performáticas, acessíveis e 
 conectadas a APIs REST.
+<br>
+
 🚀 Atualmente trabalhando em: E-commerce Essenza (React + Node.js + Mercado Pago)
 🎯 Aprendendo: Docker, AWS, CI/CD com GitHub Actions
 <br>
