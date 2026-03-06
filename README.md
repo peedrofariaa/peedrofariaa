@@ -1,7 +1,10 @@
-### Hi there 👋
+### Olá, sou Pedro Faria 👋 
 
-Eu sou o Pedro Faria, sou um Programador Front End, finalizei meus aprendizados e agora crio projetos com:
-
+Front-End Developer com experiência em startups, especializado em React, 
+Next.js e TypeScript. Construo interfaces performáticas, acessíveis e 
+conectadas a APIs REST.
+🚀 Atualmente trabalhando em: E-commerce Essenza (React + Node.js + Mercado Pago)
+🎯 Aprendendo: Docker, AWS, CI/CD com GitHub Actions
 <br>
 
  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
@@ -19,7 +22,3 @@ Eu sou o Pedro Faria, sou um Programador Front End, finalizei meus aprendizados 
   <a href="https://www.linkedin.com/in/peedrofariaa/">
   <img  align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin-logo" />
   <a/>
-  
-  <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peedrofariaa)](https://github.com/anuraghazra/github-readme-stats)
