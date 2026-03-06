@@ -6,6 +6,7 @@ conectadas a APIs REST.
 <br>
 
 🚀 Atualmente trabalhando em: E-commerce Essenza (React + Node.js + Mercado Pago)
+<br>
 🎯 Aprendendo: Docker, AWS, CI/CD com GitHub Actions
 <br>
 
