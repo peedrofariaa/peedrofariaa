@@ -1,13 +1,9 @@
 ### Olá, sou Pedro Faria 👋 
 
-Front-End Developer com experiência em startups, especializado em React, 
-Next.js e TypeScript. Construo interfaces performáticas, acessíveis e 
-conectadas a APIs REST.
+Software Developer com experiência em startup, especializado em React, Next.js e TypeScript. Construo interfaces performáticas, acessíveis e conectadas a APIs REST.
 <br>
 
-🚀 Atualmente trabalhando em: E-commerce Essenza (React + Node.js + Mercado Pago)
-<br>
-🎯 Aprendendo: Docker, AWS, CI/CD com GitHub Actions
+🚀 Último projeto: [Essenza](https://essenzame.com.br) — e-commerce completo em produção (React + Node.js + PostgreSQL + Mercado Pago)<br>
 <br>
 
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js-logo" />
